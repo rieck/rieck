@@ -1,5 +1,5 @@
 - 🌈 Hi, I’m @rieck
-- 🎓 I am a Professor of Computer Science at TU Berlin, where I head the Chair of Machine Learning and Security.
+- 🎓 I am a Professor at TU Berlin, where I head the Chair of Machine Learning and Security.
 - 🛠️ Although I rarely find the time anymore, I love programming and tinkering with code.
 
 <!---
